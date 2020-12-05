@@ -165,6 +165,7 @@ features = ["v3_16"]
 * [SolidOak](https://github.com/oakes/SolidOak)
 * [systemd-manager](https://gitlab.com/mmstick/systemd-manager)
 * [Tau](https://gitlab.gnome.org/World/Tau)
+* [Timer for Harvest](https://github.com/frenkel/timer-for-harvest)
 * [tv-renamer](https://github.com/mmstick/tv-renamer)
 * [Whatschanging](https://github.com/mothsART/whatschanging)
 
